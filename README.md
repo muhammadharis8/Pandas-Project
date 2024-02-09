@@ -1,2 +1,4 @@
 # Pandas-Project
-It is a data analysis of online shopping that differs from state to state and tracking most of the selling products for the inventory management and supplies 
+In this project , there’s a data set consisting of multiple columns like age, amount , gender etc. It is basically having data of online purchasing platform and I performed Data Analysis using the library “Pandas” of Python and first I imported that data set of multiple rows and columns then performed data cleaning and manipulation .Improved customer experience by identifying potential customers across different states, gender and age groups.
+Improved sales by identifying best selling products in different states and products being purchased by the people of different sectors which can help in maintaining inventory and hence meet the demands.
+This all analysis tells me that most of the females did online shopping and they work in IT sector , Aviation and Health care sector they spent most of their amount in buying food online and clothing and they were mostly belongs to marastha, Haryana and multiple states of India 
